@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\giddy\\documents\\unreal projects\\platformplay\\plugins\\dataassetfragments\\source\\dataassetfragments\\private\\dataassetfragments.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\giddy\\documents\\unreal projects\\platformplay\\intermediate\\build\\win64\\x64\\platformplayeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\giddy\\documents\\unreal projects\\platformplay\\plugins\\dataassetfragments\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dataassetfragments\\definitions.dataassetfragments.h",
+            "c:\\users\\giddy\\documents\\unreal projects\\platformplay\\plugins\\dataassetfragments\\source\\dataassetfragments\\public\\dataassetfragments.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

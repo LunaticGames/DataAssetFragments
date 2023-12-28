@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DataAssetFragments",
+	"Description": "Implements a version of Lyra's data assets and fragments system.",
+	"Category": "Other",
+	"CreatedBy": "DeonSaga",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DataAssetFragments",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

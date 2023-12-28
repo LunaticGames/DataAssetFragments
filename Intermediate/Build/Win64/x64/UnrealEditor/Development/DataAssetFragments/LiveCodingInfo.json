@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DataAssetFragments.cpp.obj": [
+			"DataAssetFragments.init.gen.cpp.obj",
+			"UnifiedItemAsset.gen.cpp.obj",
+			"DataAssetFragments.cpp.obj",
+			"UnifiedItemAsset.cpp.obj"
+		]
+	}
+}

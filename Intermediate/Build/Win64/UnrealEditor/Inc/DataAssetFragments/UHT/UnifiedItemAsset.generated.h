@@ -1,0 +1,338 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "UnifiedItemAsset.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UItemFragment;
+#ifdef DATAASSETFRAGMENTS_UnifiedItemAsset_generated_h
+#error "UnifiedItemAsset.generated.h already included, missing '#pragma once' in UnifiedItemAsset.h"
+#endif
+#define DATAASSETFRAGMENTS_UnifiedItemAsset_generated_h
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_SPARSE_DATA
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_RPC_WRAPPERS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_ACCESSORS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUItemFragment(); \
+	friend struct Z_Construct_UClass_UItemFragment_Statics; \
+public: \
+	DECLARE_CLASS(UItemFragment, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DataAssetFragments"), NO_API) \
+	DECLARE_SERIALIZER(UItemFragment)
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_INCLASS \
+private: \
+	static void StaticRegisterNativesUItemFragment(); \
+	friend struct Z_Construct_UClass_UItemFragment_Statics; \
+public: \
+	DECLARE_CLASS(UItemFragment, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DataAssetFragments"), NO_API) \
+	DECLARE_SERIALIZER(UItemFragment)
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UItemFragment(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UItemFragment) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UItemFragment); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UItemFragment); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UItemFragment(UItemFragment&&); \
+	NO_API UItemFragment(const UItemFragment&); \
+public: \
+	NO_API virtual ~UItemFragment();
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UItemFragment(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UItemFragment(UItemFragment&&); \
+	NO_API UItemFragment(const UItemFragment&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UItemFragment); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UItemFragment); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UItemFragment) \
+	NO_API virtual ~UItemFragment();
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_9_PROLOG
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_SPARSE_DATA \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_RPC_WRAPPERS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_ACCESSORS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_INCLASS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_SPARSE_DATA \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_ACCESSORS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DATAASSETFRAGMENTS_API UClass* StaticClass<class UItemFragment>();
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_SPARSE_DATA
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_RPC_WRAPPERS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_ACCESSORS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUFragmentCollection(); \
+	friend struct Z_Construct_UClass_UFragmentCollection_Statics; \
+public: \
+	DECLARE_CLASS(UFragmentCollection, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DataAssetFragments"), NO_API) \
+	DECLARE_SERIALIZER(UFragmentCollection)
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_INCLASS \
+private: \
+	static void StaticRegisterNativesUFragmentCollection(); \
+	friend struct Z_Construct_UClass_UFragmentCollection_Statics; \
+public: \
+	DECLARE_CLASS(UFragmentCollection, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DataAssetFragments"), NO_API) \
+	DECLARE_SERIALIZER(UFragmentCollection)
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFragmentCollection(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFragmentCollection) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFragmentCollection); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFragmentCollection); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFragmentCollection(UFragmentCollection&&); \
+	NO_API UFragmentCollection(const UFragmentCollection&); \
+public: \
+	NO_API virtual ~UFragmentCollection();
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UFragmentCollection(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UFragmentCollection(UFragmentCollection&&); \
+	NO_API UFragmentCollection(const UFragmentCollection&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UFragmentCollection); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFragmentCollection); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFragmentCollection) \
+	NO_API virtual ~UFragmentCollection();
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_21_PROLOG
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_SPARSE_DATA \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_RPC_WRAPPERS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_ACCESSORS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_INCLASS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_SPARSE_DATA \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_ACCESSORS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_INCLASS_NO_PURE_DECLS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_24_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DATAASSETFRAGMENTS_API UClass* StaticClass<class UFragmentCollection>();
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_SPARSE_DATA
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execFindFragmentByClass); \
+	DECLARE_FUNCTION(execGetAllValidFragments);
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execFindFragmentByClass); \
+	DECLARE_FUNCTION(execGetAllValidFragments);
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_ACCESSORS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUUnifiedItemAsset(); \
+	friend struct Z_Construct_UClass_UUnifiedItemAsset_Statics; \
+public: \
+	DECLARE_CLASS(UUnifiedItemAsset, UPrimaryDataAsset, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DataAssetFragments"), NO_API) \
+	DECLARE_SERIALIZER(UUnifiedItemAsset)
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_INCLASS \
+private: \
+	static void StaticRegisterNativesUUnifiedItemAsset(); \
+	friend struct Z_Construct_UClass_UUnifiedItemAsset_Statics; \
+public: \
+	DECLARE_CLASS(UUnifiedItemAsset, UPrimaryDataAsset, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DataAssetFragments"), NO_API) \
+	DECLARE_SERIALIZER(UUnifiedItemAsset)
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UUnifiedItemAsset(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUnifiedItemAsset) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUnifiedItemAsset); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUnifiedItemAsset); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUnifiedItemAsset(UUnifiedItemAsset&&); \
+	NO_API UUnifiedItemAsset(const UUnifiedItemAsset&); \
+public: \
+	NO_API virtual ~UUnifiedItemAsset();
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUnifiedItemAsset(UUnifiedItemAsset&&); \
+	NO_API UUnifiedItemAsset(const UUnifiedItemAsset&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUnifiedItemAsset); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUnifiedItemAsset); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UUnifiedItemAsset) \
+	NO_API virtual ~UUnifiedItemAsset();
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_34_PROLOG
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_SPARSE_DATA \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_RPC_WRAPPERS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_ACCESSORS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_INCLASS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_SPARSE_DATA \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_ACCESSORS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_INCLASS_NO_PURE_DECLS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_37_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DATAASSETFRAGMENTS_API UClass* StaticClass<class UUnifiedItemAsset>();
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_SPARSE_DATA
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_RPC_WRAPPERS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_ACCESSORS
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUTestConvertAsset(); \
+	friend struct Z_Construct_UClass_UTestConvertAsset_Statics; \
+public: \
+	DECLARE_CLASS(UTestConvertAsset, UUnifiedItemAsset, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DataAssetFragments"), NO_API) \
+	DECLARE_SERIALIZER(UTestConvertAsset)
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_INCLASS \
+private: \
+	static void StaticRegisterNativesUTestConvertAsset(); \
+	friend struct Z_Construct_UClass_UTestConvertAsset_Statics; \
+public: \
+	DECLARE_CLASS(UTestConvertAsset, UUnifiedItemAsset, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DataAssetFragments"), NO_API) \
+	DECLARE_SERIALIZER(UTestConvertAsset)
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UTestConvertAsset(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTestConvertAsset) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UTestConvertAsset); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UTestConvertAsset); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UTestConvertAsset(UTestConvertAsset&&); \
+	NO_API UTestConvertAsset(const UTestConvertAsset&); \
+public: \
+	NO_API virtual ~UTestConvertAsset();
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UTestConvertAsset(); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UTestConvertAsset(UTestConvertAsset&&); \
+	NO_API UTestConvertAsset(const UTestConvertAsset&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UTestConvertAsset); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UTestConvertAsset); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UTestConvertAsset) \
+	NO_API virtual ~UTestConvertAsset();
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_67_PROLOG
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_SPARSE_DATA \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_RPC_WRAPPERS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_ACCESSORS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_INCLASS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_SPARSE_DATA \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_ACCESSORS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_INCLASS_NO_PURE_DECLS \
+	FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h_70_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DATAASSETFRAGMENTS_API UClass* StaticClass<class UTestConvertAsset>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_giddy_Documents_Unreal_Projects_PlatformPlay_Plugins_DataAssetFragments_Source_DataAssetFragments_Public_UnifiedItemAsset_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
